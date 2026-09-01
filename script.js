@@ -142,7 +142,7 @@ const translations = {
       "Client",
 
     customerDescription:
-      "Découvrez les commerces locaux et commandez facilement.",
+      "Découvrez et commandez facilement.",
 
     customerFeature1:
       "Découvrir les commerces",
@@ -474,7 +474,7 @@ const translations = {
       "Customer",
 
     customerDescription:
-      "Discover local businesses and order easily.",
+      "Discover and order easily.",
 
     customerFeature1:
       "Discover businesses",
@@ -806,7 +806,7 @@ const translations = {
       "العميل",
 
     customerDescription:
-      "اكتشف المحلات المحلية واطلب بسهولة.",
+      "اكتشاف  وطلب بسهولة.",
 
     customerFeature1:
       "اكتشاف المحلات",
